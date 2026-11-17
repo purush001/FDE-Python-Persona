@@ -1,0 +1,9 @@
+# files the labs write while they run
+__pycache__/
+*.db
+real_server.py
+tiny_server.py
+mini_servers.py
+noisy_server.py
+pizza_stdio_server.py
+checkpoint*.json
